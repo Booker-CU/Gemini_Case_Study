@@ -42,6 +42,7 @@ Gemini’s main business activity is to offer a safe and secure, user-friendly w
 
 <!-- What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) -->
 
+
 What Gemini offers more than most of its competitors is a higher level of security. In 2018 Gemini completed its Service Organization 2 Type 1 examinations, and became the world’s first cryptocurrency exchange and custodian to demonstrate a high level of security compliance in protecting customer data and funds.*
 
 Also that year, Gemini hired Nasdaq Inc to conduct market survelliance for Bitcoin and Ether trading as well as Bitcoin futures. It was the first partnership between a well-known exchange and a digital-asset market.*
