@@ -125,6 +125,7 @@ Taking U.S. based crypto exchanges into account, Gemini is not considered to be 
 Gemini’s security and regulatory compliance is one of it’s biggest strengths. It’s desktop and mobile app are easy to use, and provide the user with detailed information for purchasing and trading digital assets. 
 
 ![pic](Gemini-app.png)
+![Gemini-app](https://user-images.githubusercontent.com/58498868/71316501-53c1bf00-243e-11ea-9c51-2ee87ad34e29.png)
 
 One of the main things users desire more from Gemini is access to a larger selection of cryptocurrencies. Gemini’s regulatory requirements might limit which coins it can have on its exchange, especially the more volatile exotic coins. Having a larger selection of cryptocurrencies could increase the number of users on its site. 
 
