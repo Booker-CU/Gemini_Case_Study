@@ -37,7 +37,9 @@ Gemini’s funding came from Cameron and Tyler Winklevoss, moreso known as the W
 ## Business Activities:
 
 <img width="799" alt="gemini_mobiletrade" src="https://user-images.githubusercontent.com/58498868/71316482-12311400-243e-11ea-98af-1bd04d6c101d.png">
-Gemini’s main business activity is to offer a safe and secure, user-friendly way to buy, sell, store, send and receive digital assets. Gemini markets to both beginners and experienced traders, while also offering support to institutional investors. The cryptocurrencies listed on its exchange are Bitcoin, Ethereum, Bitcoin Cash, Litecoin, and Zcash. Gemini also offers a stable-coin (which is pegged to the U.S. dollar).
+Gemini’s main business activity is to offer a safe and secure, user-friendly way to buy, sell, store, send and receive digital assets. 
+
+Gemini markets to both beginners and experienced traders, while also offering support to institutional investors. The cryptocurrencies listed on its exchange are Bitcoin, Ethereum, Bitcoin Cash, Litecoin, and Zcash. Gemini also offers a stable-coin (which is pegged to the U.S. dollar).
 
 
 <!-- What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) -->
