@@ -10,7 +10,8 @@
 
 
 <!-- ## Overview and Origin -->
-![pic](gemini_logo.png)
+
+![gemini_logo](https://user-images.githubusercontent.com/58498868/71316407-2a546380-243d-11ea-8358-5eaabd2f8a51.png)
 
 ### Gemini is a licensed digital asset exchange and custodian built for both individuals and institutions, which allows customers to buy, sell and store digital assets. Gemini is a New York trust company regulated by the New York State Department of Financial Services (NYSDFS)*.
 ### Gemini is subject to the security, capital reserve and banking compliance requirements of its regulator*. Gemini Exchange is available to roughly 45 U.S. states, Puerto Rico, Canada, United Kingdom, Hong Kong, Singapore, and South Korea.
