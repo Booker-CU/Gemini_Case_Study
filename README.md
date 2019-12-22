@@ -24,8 +24,7 @@ Gemini Trust Company, LLC (Gemini)
 Gemini was founded in 2014 by Cameron and Tyler Winklevoss.
 It is headquartered in New York City and has approximately 200 employees.
 
-![pic](winklovoss_twins.jpg)
-
+![winklovoss_twins](https://user-images.githubusercontent.com/58498868/71316442-a9e23280-243d-11ea-8944-af82c4b320d1.jpg)
 <!-- * How did the idea for the company (or project) come about? -->
 Gemini began in order to facilitate the purchase and storage of Bitcoin through a complex system of private keys and password protected environments.* It’s initial goal was to make access to the digital asset market accessible and safe.
 
